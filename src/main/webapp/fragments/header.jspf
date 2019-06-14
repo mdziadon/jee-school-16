@@ -1,0 +1,7 @@
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<header>
+    <a href="/">Strona główna</a>
+    <a href="/Groups">Grupy</a>
+    <a href="/Admin">Panel administracyjny</a>
+</header>
+<br><br>
